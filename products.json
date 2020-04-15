@@ -1,0 +1,100 @@
+{
+	"foodItems": [
+		{
+			"sys": { "id": "1" },
+			"fields": {
+				"title": "Matooke",
+				"price": "3000",
+				"image": "./images/matooke.jpg"
+			}
+		},
+		{
+			"sys": { "id": "2" },
+			"fields": {
+				"title": "Irish Potato",
+				"price": "2000",
+				"image": "./images/irish.jpg"
+			}
+		},
+		{
+			"sys": { "id": "3" },
+			"fields": {
+				"title": "Onions",
+				"price": "500",
+				"image": "./images/onions.jpg"
+			}
+		},
+		{
+			"sys": { "id": "4" },
+			"fields": {
+				"title": "Tomatoes",
+				"price": "500",
+				"image": "./images/tomatoes.jpg"
+			}
+		},
+		{
+			"sys": { "id": "5" },
+			"fields": {
+				"title": "Cassava",
+				"price": "1000",
+				"image": "./images/cassava.jpg"
+			}
+		},
+		{
+			"sys": { "id": "6" },
+			"fields": {
+				"title": "Carrots",
+				"price": "5000",
+				"image": "./images/carrots.jpg"
+			}
+		},
+		{
+			"sys": { "id": "7" },
+			"fields": {
+				"title": "Eggplant",
+				"price": "1000",
+				"image": "./images/eggplants.jpg"
+			}
+		},
+		{
+			"sys": { "id": "8" },
+			"fields": {
+				"title": "Cucumber",
+				"price": "1500",
+				"image": "./images/cucumber.jpg"
+			}
+		},
+		{
+			"sys": { "id": "9" },
+			"fields": {
+				"title": "Cabbage",
+				"price": "1500",
+				"image": "./images/cabbage.jpg"
+			}
+		},
+		{
+			"sys": { "id": "10" },
+			"fields": {
+				"title": "Green Paper",
+				"price": "500",
+				"image": "./images/greenpaper.jpg"
+			}
+		},
+		{
+			"sys": { "id": "11" },
+			"fields": {
+				"title": "Greens/Nakati",
+				"price": "1000",
+				"image": "./images/greens.jpg"
+			}
+		},
+		{
+			"sys": { "id": "12" },
+			"fields": {
+				"title": "French Beans",
+				"price": "3000",
+				"image": "./images/frenchbeans.jpg"
+			}
+		}
+	]
+}
